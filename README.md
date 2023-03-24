@@ -1,4 +1,4 @@
-# Infraestrutura-como-C-digo-Script-de-Cria-o-de-Estrutura-de-Usu-rios
+# Infraestrutura-como-Código-Script-de-Criação-de-Estrutura-de-Usuários
 Repositório dedicado ao armazenamento do Desafio de Código -> Infraestrutura como Código: Script de Criação de Estrutura de Usuários, 
 
 Consiste em um script responsável pela criação de usuarios, grupos, e definição de permissões desses grupos criados sobre quatro repositorios:
